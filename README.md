@@ -12,7 +12,7 @@
     <a href="#fancy-pca-and-cam">Fancy PCA and CAM</a>
 </h4>
 
-This repo contains the deep learning models to tackle 8 classification tasks raised by [PEER Hub ImageNet Challenge](https://apps.peer.berkeley.edu/phichallenge/detection-tasks/). For detail descriptions of please find the written [report](https://github.com/wenyiyen/CS230-Final-Project/blob/master/report.pdf) and [poster](https://github.com/wenyiyen/CS230-Final-Project/blob/master/poster_wyy_mfz.pdf).
+This repo contains the deep learning models (Convolutional Neural Networks) to tackle 8 classification tasks raised by [PEER Hub ImageNet Challenge](https://apps.peer.berkeley.edu/phichallenge/detection-tasks/). For detail descriptions of please find the written [report](https://github.com/wenyiyen/CS230-Final-Project/blob/master/report.pdf) and [poster](https://github.com/wenyiyen/CS230-Final-Project/blob/master/poster_wyy_mfz.pdf).
 
 ## Overview of Classification Tasks
 "[PEER Hub ImageNet Challenge](https://apps.peer.berkeley.edu/phichallenge/detection-tasks/)" is held by University of California at Berkeley. Totally 8 tasks are raised:
