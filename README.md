@@ -6,8 +6,8 @@
 </h1>
 
 <h4 align="center">
-    <a href="#material-overview">Material Overview</a> |
-     <a href="#material-compiling">Material Compiling</a> |
-    <a href="#connection-model">Connection model</a> |
-    <a href="#steel-frame-performance">Steel Frame Performance</a>
+    <a href="#overview-of-classification-tasks">Overview of Classification Tasks</a> |
+     <a href="#initial-trial-with-vgg-16">Initial Trial with VGG-16</a> |
+    <a href="#merging-models">Merging Models</a> |
+    <a href="#fancy-pca-and-cam">Fancy PCA and CAM</a>
 </h4>
