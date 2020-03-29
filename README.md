@@ -15,7 +15,7 @@
 This repo contains the deep learning models (Convolutional Neural Networks) to tackle 8 classification tasks raised by [PEER Hub ImageNet Challenge](https://apps.peer.berkeley.edu/phichallenge/detection-tasks/). For detail descriptions of please find the written [report](https://github.com/wenyiyen/CS230-Final-Project/blob/master/report.pdf) and [poster](https://github.com/wenyiyen/CS230-Final-Project/blob/master/poster_wyy_mfz.pdf).
 
 ## Overview of Classification Tasks
-"[PEER Hub ImageNet Challenge](https://apps.peer.berkeley.edu/phichallenge/detection-tasks/)" is held by University of California at Berkeley. Totally 8 tasks are raised:
+"[PEER Hub ImageNet Challenge](https://apps.peer.berkeley.edu/phichallenge/detection-tasks/)" is held by University of California at Berkeley. Totally 8 classification tasks are raised:
 - Task 1: Scene level identification.
 - Task 2: Damage state check.
 - Task 3: Spalling condition check.
