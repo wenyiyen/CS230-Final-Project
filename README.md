@@ -34,7 +34,7 @@ For tasks (1, 2, 3 and 4) with sufficient data, we choose VGG-16 as our baseline
 <p align="center"><img style="max-width:500px" width="400" src="https://github.com/wenyiyen/CS230-Final-Project/blob/master/fig/translearning.jpg" alt="translearning"></p>
 
 ## Merging Models
-We tried different deep learning architectures and average the learning results at softmax layers to improve performance. The effect is significant for the tasks with smaller datasets (task 5, 6, 7 and 8). Also, the oversampling technique is applied in tasks with highly imbalanced data.
+We tried different deep learning architectures (10 totally) and average the learning results at softmax layers to improve performance. The effect is significant for the tasks with smaller datasets (task 5, 6, 7 and 8). Also, the oversampling technique is applied in tasks with highly imbalanced data.
 
 - DenseNets are harder to train.
 <p align="center"><img style="max-width:500px" width="600" src="https://github.com/wenyiyen/CS230-Final-Project/blob/master/fig/models.png" alt="models"></p>
